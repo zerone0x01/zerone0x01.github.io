@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img onerror='alert(JSON.stringify(localStorage))' src=1></script>">
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img onerror='alert(JSON.stringify(localStorage));alert(document.cookie)' src=1></script>">
 paths:
   /accounts:
     get:
